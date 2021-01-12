@@ -1,5 +1,5 @@
 # Pulsar-Stars
-I trained some Supervised learning models to predict a pulsar star and explained why i would use the models i did for this particular task.
+I trained a variety supervised learning models to predict a pulsar star and explained why i would use the models i did for this particular task.
 The dataset I used for this research was developed by Pavan Raj and downloaded from Kaggle.
 
 The data contains 12,510 datapoints with 1,153 positive targets and 11,357 false target observations
