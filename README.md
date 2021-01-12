@@ -19,3 +19,8 @@ The first four columns are measured attributes of the stars and the last four ar
 
 We will model this problem as a binary classification problem. I will use a variety of classifiers like KNN, Random Forest, Support Vector Machines, and Gradient Boosting to see how well we can get them to perform the task and then settle on the best performing one to put forward as a possible implementation for identifying pulsar stars. We will primarily use the sklearn classification report to compare models and specifically, the recall score. 
 Some EDA had to be performed to clean the dataset before modeling and I d like to share some insights about the raw data before continuing to the modeling portion 
+
+Dataset Citation:
+R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles, Fifty Years of Pulsar
+	Candidate Selection: From simple filters to a new principled real-time classification approach
+	MNRAS, 2016.
